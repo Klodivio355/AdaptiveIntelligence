@@ -1,4 +1,4 @@
-# AdaptiveIntelligence
+# Adaptive Intelligence COM3240
 Implementation of the COM3240 assignments
 
 # Assignment 1 Feedback
